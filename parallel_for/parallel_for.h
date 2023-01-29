@@ -3,6 +3,8 @@
 #include <functional>
 #include <vector>
 
+/// Code from this SO post: https://stackoverflow.com/a/49188371
+
 /// @param[in] nb_elements : size of your for loop
 /// @param[in] functor(start, end) :
 /// your function processing a sub chunk of the for loop.
